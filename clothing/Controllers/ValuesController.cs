@@ -20,7 +20,7 @@ namespace clothing.Controllers
 
 
 
-        [HttpGet]
+        [HttpPost]
         
         public JsonResult Create(Clothe clothes)
         {
